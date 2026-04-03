@@ -38,10 +38,10 @@ Development Team Lead @ Tech Under 20 *(Aug 2021 – Jul 2024)*
 
 ---
 
-## 🚀 Projects
+## Projects
 | Project | Description | Stack |
 |---|---|---|
-| [PaiMap](https://github.com/MM871/PaiMap) | High-performance mapping app — O(1) spatial queries, 95/100 | C++ |
+| [PaiMap](https://github.com/MM871/PaiMap) | High-performance mapping app w/ O(1) spatial queries | C++ |
 | [LiveMeet](https://github.com/MM871/LiveMeet) | Real-time AI meeting analyzer | Next.js, Express.js, Groq LLM, Typescript, Tailwind|
 | [PulsePatrol](https://github.com/MM871/PulsePatrol) | FPGA radar system with VGA display | C, C++, Assembly |
 | [Logic-Gate-Grand-Prix](https://github.com/MM871/Logic-Gate-Grand-Prix) | Two-player FPGA racing game | Verilog |
@@ -49,6 +49,6 @@ Development Team Lead @ Tech Under 20 *(Aug 2021 – Jul 2024)*
 
 ---
 
-## 📫 Connect
+## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir%20Maringanti-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mihirmaringanti)
 [![Email](https://img.shields.io/badge/Email-mihir.maringanti@mail.utoronto.ca-red?style=flat&logo=gmail)](mailto:mihir.maringanti@mail.utoronto.ca)
