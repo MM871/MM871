@@ -42,8 +42,8 @@ Development Team Lead @ Tech Under 20 *(Aug 2021 – Jul 2024)*
 | Project | Description | Stack |
 |---|---|---|
 | [PaiMap](https://github.com/MM871/PaiMap) | High-performance mapping app — O(1) spatial queries, 95/100 | C++ |
-| [LiveMeet](https://github.com/MM871/LiveMeet) | Real-time AI meeting analyzer | Next.js, Node.js, Groq LLM |
-| [PulsePatrol](https://github.com/MM871/PulsePatrol) | FPGA radar system with VGA display | C, Verilog |
+| [LiveMeet](https://github.com/MM871/LiveMeet) | Real-time AI meeting analyzer | Next.js, Express.js, Groq LLM, Typescript, Tailwind|
+| [PulsePatrol](https://github.com/MM871/PulsePatrol) | FPGA radar system with VGA display | C, C++, Assembly |
 | [Logic-Gate-Grand-Prix](https://github.com/MM871/Logic-Gate-Grand-Prix) | Two-player FPGA racing game | Verilog |
 | [Line-Following-Robot](https://github.com/MM871/Line-Following-Robot) | 1st place UofT Robotics Competition | C, Arduino |
 
